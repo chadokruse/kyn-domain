@@ -1,14 +1,14 @@
 # Domain settings
-flippa_domain: DailyViva.com
-flippa_domain_url: https://flippa.com/5925939-no-title
-flippa_buy_now_price: 549
+flippa_domain: Kyn.me
+flippa_domain_url: https://flippa.com/5925938-no-title
+flippa_buy_now_price: 599
 
 # Portfolio settings
 flippa_portfolio_url: https://flippa.com/domain-catalogs/38205
 flippa_portfolio_domains:
   -
-    name: kyn.me
-    url: https://flippa.com/5925938-no-title
+    name: dailyviva.com
+    url: https://flippa.com/5925939-no-title
 #  -
 #    name: seconddomain.com
 #    url: https://flippa.com/1234567
